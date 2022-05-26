@@ -1,0 +1,18 @@
+body {
+    background: #9bffe0;
+    background-image: url("./sunset.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    color: white;
+    text-align: center;
+}
+h3 {
+  color: white;
+  text-align: center;
+}
+img {
+  width:100%
+}
+
